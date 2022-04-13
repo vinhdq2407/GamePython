@@ -4,7 +4,7 @@ import pygame,sys,random
 def draw_floor():
     screen.blit(floor,(floor_x_pos,650))
     screen.blit(floor,(floor_x_pos+432,650))
-    # vinh
+    # vinh sua
 
 # hàm tạo ống liên tục
 def create_pipe():
